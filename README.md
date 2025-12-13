@@ -67,6 +67,7 @@ I can debug for hours, but naming variables still takes me longer than it should
 
 ![](https://nirzak-streak-stats.vercel.app/?user=PreethuPradeep&theme=nightowl&hide_border=true)
 
+[![Preethu's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/PreethuPradeep/github-readme-stats-fast)
 ---
 
 ## 🏆 GitHub Trophies
