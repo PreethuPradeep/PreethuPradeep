@@ -87,5 +87,11 @@ I can debug for hours, but naming variables still takes me longer than it should
 ![](https://github-profile-trophy.vercel.app/?username=PreethuPradeep&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+## 🏆 GitHub Activity
+![](https://github-profile-trophy.vercel.app/?username=PreethuPradeep&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+
+*Active contributor with 268+ commits across personal and team projects. Open to collaborations and code reviews!*
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=PreethuPradeep&icon=0&color=0)](https://visitcount.itsvg.in)
