@@ -1,7 +1,10 @@
-# Hi, I'm Preethu 👋
-I'm a **.NET Backend Developer** focused on building clean, reliable backend systems using  
-**C#, ASP.NET Core, Entity Framework Core, and SQL Server**.  
-I enjoy API development, relational data modeling, authentication patterns, and integrating frontend applications with robust backend services.
+# Hi, I’m Preethu 👋
+
+Backend-focused **.NET Developer** building workflow-driven systems with an emphasis on  
+**correctness, auditability, and clean domain logic**.
+
+I work primarily with **C#, ASP.NET Core, Entity Framework Core, SQL Server and Angular**,  
+and enjoy designing stateful backend systems that go beyond basic CRUD.
 
 I recently completed my **Full Stack .NET Developer Certification** at Faith Infotech Academy (Dec 2025)  
 and I'm actively seeking **Junior Backend Developer (.NET)** opportunities while building personal projects.
@@ -15,12 +18,37 @@ and I'm actively seeking **Junior Backend Developer (.NET)** opportunities while
 - Preparing for backend development interviews and coding assessments
 
 ---
+## 🚀 Featured Project: Approval Workflow System
 
-## 🌱 Currently Learning
-- Advanced ASP.NET Core Identity & authorization patterns  
-- Entity Framework Core optimization (query performance, N+1 problems, migrations)  
-- Angular state management and component architecture  
-- Azure App Service deployment and CI/CD basics
+A backend-first approval workflow system designed to model real-world business processes.
+
+**Key highlights**
+- Explicit request state machine with guarded transitions
+- Auditor assignment lifecycle
+- Approval, rejection, escalation, and closure flows
+- Redressal (appeal) creation and closure
+- Full audit logging for every state-changing action
+- Soft-delete strategy to preserve historical integrity
+
+🔗 Repository: [Approval Workflow System](https://github.com/PreethuPradeep/approval-workflow-system/tree/dev)
+
+---
+
+## 🛠 Currently Working On
+
+- Adding role-based authorization (Admin / Auditor / Requestor)
+- Exposing workflow operations via REST controllers
+- Documenting request and redressal state flows
+
+---
+
+## 🧠 Technical Focus
+
+- Backend system design & workflow modeling
+- State machines over flag-based status handling
+- Audit trails and traceability
+- ASP.NET Core service-layer architecture
+- Entity Framework Core with explicit constraints
 
 ---
 
@@ -40,20 +68,13 @@ where I can contribute backend logic, database design, and API development while
 ---
 
 ## 💬 Ask Me About
-My journey from **Civil Engineering** to software development,  
-designing normalized databases, implementing JWT authentication, resolving API integration issues, or debugging team projects with Git workflows.
-
----
-
-## ⚡ Fun Fact  
-I can debug for hours, but naming variables still takes me longer than it should 😄
+Implementing JWT authentication, resolving API integration issues, or debugging team projects with Git workflows.
 
 ---
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preethu-pradeep-0443a836a)  
 📧 Email: **preethu.pradeep25@gmail.com**  
-📱 Phone: **+91-7025060741**
 
 ---
 
@@ -84,14 +105,13 @@ I can debug for hours, but naming variables still takes me longer than it should
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PreethuPradeep&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+## 💬 About Me
 
----
-## 🏆 GitHub Activity
-![](https://github-profile-trophy.vercel.app/?username=PreethuPradeep&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+I transitioned into software development from a Civil Engineering background and enjoy
+breaking down complex workflows into clear, maintainable backend logic.
 
-*Active contributor with 268+ commits across personal and team projects. Open to collaborations and code reviews!*
+I’m particularly interested in systems where correctness and auditability matter.
+
 
 ---
 
