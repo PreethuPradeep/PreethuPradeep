@@ -78,7 +78,8 @@ I can debug for hours, but naming variables still takes me longer than it should
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PreethuPradeep&theme=nightowl&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=PreethuPradeep&theme=nightowl&hide_border=true&count_private=true&cache_seconds=1800
+)
 ![](https://nirzak-streak-stats.vercel.app/?user=PreethuPradeep&theme=nightowl&hide_border=true)
 
 ---
