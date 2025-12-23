@@ -87,14 +87,9 @@ Implementing JWT authentication, resolving API integration issues, or debugging 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 ---
 
@@ -102,6 +97,21 @@ Implementing JWT authentication, resolving API integration issues, or debugging 
 ![](https://github-readme-stats.vercel.app/api?username=PreethuPradeep&theme=nightowl&hide_border=true&count_private=true&cache_seconds=1800
 )
 ![](https://nirzak-streak-stats.vercel.app/?user=PreethuPradeep&theme=nightowl&hide_border=true)
+
+![](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![](https://github.com/antonkomarev/github-profile-views-counter)
+
+![](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://shields.io/)
+
+![](https://github.com/lowlighter/metrics)
+
 
 ---
 
