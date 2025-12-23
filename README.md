@@ -96,22 +96,24 @@ Implementing JWT authentication, resolving API integration issues, or debugging 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=PreethuPradeep&theme=nightowl&hide_border=true&count_private=true&cache_seconds=1800
 )
-![](https://nirzak-streak-stats.vercel.app/?user=PreethuPradeep&theme=nightowl&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PreethuPradeep&theme=nightowl&hide_border=true)
 
-![](https://github.com/PreethuPradeep/github-readme-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PreethuPradeep&theme=nightowl&hide_border=true)
 
-![](https://github.com/PreethuPradeep/github-readme-streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=PreethuPradeep&style=flat&color=blue)
 
-![](https://github.com/PreethuPradeep/github-readme-activity-graph)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PreethuPradeep&theme=onedark&no-frame=true)
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat)
 
-![](https://github.com/PreethuPradeep/github-profile-views-counter)
+![Metrics](https://raw.githubusercontent.com/PreethuPradeep/PreethuPradeep/main/github-metrics.svg)
 
-![](https://github.com/PreethuPradeep/github-profile-trophy)
+## 📊 GitHub Stats
 
-![](https://shields.io/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreethuPradeep&theme=nightowl&hide_border=true&count_private=true)
 
-![](https://github.com/lowlighter/metrics)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PreethuPradeep&theme=nightowl&hide_border=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PreethuPradeep&theme=nightowl&hide_border=true)
 
 ---
 
