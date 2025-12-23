@@ -98,15 +98,15 @@ Implementing JWT authentication, resolving API integration issues, or debugging 
 )
 ![](https://nirzak-streak-stats.vercel.app/?user=PreethuPradeep&theme=nightowl&hide_border=true)
 
-![](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/PreethuPradeep/github-readme-stats)
 
-![](https://github.com/DenverCoder1/github-readme-streak-stats)
+![](https://github.com/PreethuPradeep/github-readme-streak-stats)
 
-![](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![](https://github.com/PreethuPradeep/github-readme-activity-graph)
 
-![](https://github.com/antonkomarev/github-profile-views-counter)
+![](https://github.com/PreethuPradeep/github-profile-views-counter)
 
-![](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github.com/PreethuPradeep/github-profile-trophy)
 
 ![](https://shields.io/)
 
