@@ -97,9 +97,10 @@ Implementing JWT authentication, resolving API integration issues, or debugging 
 
 ## 📊 GitHub Stats
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreethuPradeep&theme=nightowl&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PreethuPradeep&theme=nightowl&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PreethuPradeep&theme=nightowl&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PreethuPradeep&theme=nightowl&hide_border=true)
 
